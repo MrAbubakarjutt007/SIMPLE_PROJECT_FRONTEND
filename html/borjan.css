@@ -1,0 +1,167 @@
+.marquee
+{
+	font-size:10px; 
+	color:white; 
+	padding:8px;
+	margin-top:2px;  
+	background-color:black;
+	width:95%;   
+
+}
+.abc
+{
+	font-size:12px;
+	margin-left:80px;
+	color:black;      
+}
+.ab
+{
+	margin-bottom:5px; 
+}
+.chang
+{
+	margin-left:80px;
+	margin-top:25px;    
+}
+.die
+{
+	margin-right:10px;
+	width:100%;
+	height:100%;    
+}
+.convert
+{
+  list-style-type:none; 
+  margin-top:20px;       
+}
+.colo
+{
+	color:black;
+	margin:5px;
+	font-size:14px;
+	float:left;      
+}
+.he
+{
+	display:inline;
+}
+#Layer_1
+{
+	width:30px;	  
+}
+.put
+{
+  padding:5px;
+  font-size:12px;
+  border:1px solid;
+  border-right:transparent;
+  float:left;
+  width:20%;
+  background:white;
+  margin-left:50px;  
+}
+.sub
+{
+  width:5%;
+  padding:2px;
+  background:white;
+  color:black;
+  border:1px solid;
+  border-left:none;
+  cursor:pointer;
+  height:30px;
+  border-left:transparent;
+}
+.nav-link
+{
+	color:black;
+	font-family:tahoma regular;    
+}
+.fly
+{
+	border-bottom:1px solid #bcbcbc; 
+}
+.backs
+{
+	
+	height:20%; 
+
+}
+.fool
+{
+	width:100%;
+	font-size:20px;
+	background-color:black;
+	color:white;
+	padding:20px;      
+}
+.by
+{
+	margin-left:50px; 
+}
+.hy
+{
+  margin-left:80px;	
+}
+.why
+{
+  margin-left:60px;	
+}
+.hwy
+{
+ margin-left:100px;	
+}
+.Borjan
+{
+	text-align:center; 
+}
+.cen
+{
+	text-align:center; 
+}
+.spain
+{
+	text-align:center;  
+}
+.vot
+{
+ 
+  color:black; 
+  text-decoration:underline;
+  margin-left:10px;
+  font-size:15px;   	
+}
+.hase
+{
+	font-weight:2; 
+}
+.arey
+{
+	width:360px; 
+}
+.style
+{
+	width:90px;
+	height:32px;
+	background-color:black !important;
+	color:white !important;   
+	border-radius:none!important;  
+}
+.facebook
+{
+	display:inline; 
+
+}
+.about
+{
+	color:black; 
+	font-size:12px;	   
+}
+:hover.about
+{
+	color:black; 
+}
+.easy
+{
+	margin-left:40px; 
+}
